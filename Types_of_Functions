@@ -1,0 +1,4 @@
+class total_cost:
+    ...
+round(total_cost, 2)      # built-in function
+def greet_customer():     # user-defined function

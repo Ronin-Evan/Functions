@@ -1,0 +1,3 @@
+def calculate_total(price, cups):
+    total = price * cups
+    return total

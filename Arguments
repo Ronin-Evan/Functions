@@ -1,0 +1,8 @@
+def calculate_total(price, cups):
+    total = price * cups
+    return total
+class price_per_cup:
+    ...
+class cups_sold:
+    ...
+calculate_total(price_per_cup, cups_sold)

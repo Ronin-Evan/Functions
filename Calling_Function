@@ -1,0 +1,2 @@
+greet_customer()
+total_cost = calculate_total(price_per_cup, cups_sold)
